@@ -1,3 +1,3 @@
-A series of 3 assignments conducted as part of the module ‘Machine Learning’ for the MSc ‘Data Science and Machine Learning’. The assignments include:
+A series of 2 assignments conducted as part of the module ‘Machine Learning’ for the MSc ‘Data Science and Machine Learning’. The assignments include:
 -	Supervised Learning: The dataset used is called philippines (OML25) from the OpenML repository. Classifiers: Dummy, Gaussian Naive Bayes (GNB), KNeirestNeighbors (kNN), Logistic Regression (LR), Multi-Layer Perceptron (MLP) and Support Vector Machines (SVM), optimization with grid search, Results: Accuracy, F1-Score, Confusion Matrix
 -	Unsupervised Learning: Datasets: wingnut & h2mg_128_90 , Clustering: k-means, HAC (Hierarchical Agglomerative Clustering), Gaussian Mixture Model (GMM), DBSCAN, HDBSCAN and SOM, Results: Adjusted Rand Index, Adjusted Mutual Information, V-measure
